@@ -47,6 +47,7 @@ Make sure to use python version >= 3.5
 * Download expo app from the google play store or iOS app store
 
 * Scan the following QR code to test the deployed app in snack
+
 ![expo snack](expo-snack.png)
 
 * Open the web app at [http://projects.koshikraj.com/qrlogin/](http://projects.koshikraj.com/qrlogin/)
